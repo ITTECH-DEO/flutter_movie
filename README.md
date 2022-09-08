@@ -74,3 +74,5 @@ pages/movie_detail.dart.
 ![](images/prakter11.png)
 result
 ![](images/result1.png)
+detail
+![](images/detail.png)
